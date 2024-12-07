@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tony Tawakali
+- 👋 Hi, I’m Tony
 - 👀 I’m passionate about data analysis and exploring the world of coding.
 - 🌱 Currently, I’m enhancing my skills in Python to deepen my data analysis expertise.
 - 💞️ I’m open to collaborating on group projects related to data analysis and visualization.
