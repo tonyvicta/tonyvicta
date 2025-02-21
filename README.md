@@ -4,7 +4,7 @@
 
 
 - 👀 I’m passionate about data analysis and exploring the world of coding.
-- 🌱  I am currently enhancing my skills in SQL and Power BI to strengthen my expertise in data analysis and visualization.
+- 🌱  I am currently enhancing my skills in SQL, Python, Snowflak and Power BI to strengthen my expertise in data analysis and visualization.
 - 💞️ I’m open to collaborating on group projects related to data analysis and visualization.
 - 📫 You can reach me at tony@datasphered.com.
     
