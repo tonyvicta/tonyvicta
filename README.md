@@ -1,12 +1,26 @@
+## About me 
 
-### 👋 Hi, I’m Tony
+I specialize in data analytics, business intelligence, and process optimization, transforming raw data into actionable insights that drive business decisions. With experience in data visualization, reporting, and automation, I thrive on solving complex problems and uncovering meaningful patterns in data.
 
+### 💡 What I Do:
+- Data Analysis & Business Intelligence – Extracting insights using SQL, Power BI, and Python.
+- Data Visualization – Building interactive dashboards to communicate trends and KPIs.
+- Database Management & Optimization – Designing efficient data models and workflows.
+- Process Automation – Enhancing efficiency through data-driven automation and reporting.
 
+### 🛠️ Tech & Tools I Use:
+- 💾 SQL | Python | Power BI | Excel | Snowflake 
+- 📊 Data Visualization | Dashboarding | Reporting
 
-- 👀 I’m passionate about data analysis and exploring the world of coding.
-- 🌱  I am currently enhancing my skills in SQL, Python, Snowflake and Power BI to strengthen my expertise in data analysis and visualization.
-- 💞️ I’m open to collaborating on group projects related to data analysis and visualization.
-- 📫 You can reach me at tony@datasphered.com.
+### 🌱 Currently Learning:
+- 📌 Snowflake for Data Warehousing
+- 📌 Advanced SQL Query Optimization
+- 📌 Python for Data Engineering
+
+### 📫 Let's Connect!
+- 💼 LinkedIn
+- 📧 tony@datasphered.com
+
     
 <!---
 tonyvicta/tonyvicta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
