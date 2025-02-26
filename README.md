@@ -1,6 +1,6 @@
 ## About me 
 
-I specialize in data analytics, business intelligence, and process optimization, transforming raw data into actionable insights that drive business decisions. With experience in data visualization, reporting, and automation, I thrive on solving complex problems and uncovering meaningful patterns in data.
+I specialise in data analytics, business intelligence, and process optimization, transforming raw data into actionable insights that drive business decisions. With experience in data visualization, reporting, and automation, I thrive on solving complex problems and uncovering meaningful patterns in data.
 
 ### 💡 What I Do:
 - Data Analysis & Business Intelligence – Extracting insights using SQL, Power BI, and Python.
