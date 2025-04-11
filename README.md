@@ -13,7 +13,7 @@ I specialise in data analytics, business intelligence, and process optimisation,
 
 # ⭐ ETL (Extract Transform Load) Projects
 
-- [Python, API & Streemlit: Snowflake Streamlit Smoothie App](https://github.com/tonyvicta/Snowflake-Streamlit-Smoothie-App)
+- [Python, SQL, Snowflake & Streemlit, : Snowflake Streamlit Smoothie App](https://github.com/tonyvicta/Snowflake-Streamlit-Smoothie-App)
 - [SQL & Power BI: Sales Customer insights Dashboard](https://github.com/tonyvicta/Sales-Customer-Insights-Dashboard)
 - [SQL & Power BI: AML Transaction Analysis](https://github.com/tonyvicta/AML-Transaction-Analysis-Post-Russian-Invasion)
 
