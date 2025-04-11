@@ -2,7 +2,20 @@
 
 # Hi, I'm Tony 👋
 
-I specialise in data analytics, business intelligence, and process optimisation, transforming raw data into actionable insights that drive business decisions. With experience in data visualization, reporting, and automation, I thrive on solving complex problems and uncovering meaningful patterns in data.<br><br>💡 What I Do:<br>🧑‍💻Data Analysis & Business Intelligence – Extracting insights using SQL, Power BI, and Python.<br>📊Data Visualisation – Building interactive dashboards to communicate trends and KPIs.<br>🗄️Database Management & Optimisation – Designing efficient data models and workflows.<br>🔄Process Automation – Enhancing efficiency through data-driven automation and reporting.<br><br><br>🌱 Currently Learning:<br>📌 Snowflake for Data Warehousing<br>📌 Advanced SQL Query Optimisation<br>📌 Python for Data Engineering
+I specialise in data analytics, business intelligence, and process optimisation, transforming raw data into actionable insights that drive business decisions. With experience in data visualization, reporting, and automation, I thrive on solving complex problems and uncovering meaningful patterns in data.<br><br>💡 What I Do:<br>🧑‍💻Data Analysis & Business Intelligence – Extracting insights using SQL, Power BI, and Python.<br>📊Data Visualisation – Building interactive dashboards to communicate trends and KPIs.<br>🗄️Database Management & Optimisation – Designing efficient data models and workflows.<br>🔄Process Automation – Enhancing efficiency through data-driven automation and reporting.<br><br><br>
+
+
+⭐ **Tableau Visualisations**
+
+
+
+
+
+
+
+
+
+🌱 Currently Learning:<br>📌 Snowflake for Data Warehousing<br>📌 Advanced SQL Query Optimisation<br>📌 Python for Data Engineering
 
 
 ## 🌐 Socials:
