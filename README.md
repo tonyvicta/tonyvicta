@@ -9,11 +9,11 @@ I specialise in data analytics, business intelligence, and process optimisation,
 # ⭐ Data Visualisation projects 
 
 
-[![Smoothie App](https://raw.githubusercontent.com/tonyvicta/Snowflake-Streamlit-Smoothie-App/main/mysmoothie.png)](https://mysmoothie.streamlit.app/)
+### 🥤 Try My Smoothie Web App
 
+[![Smoothie App](https://raw.githubusercontent.com/tonyvicta/Snowflake-Streamlit-Smoothie-App/main/screenshots/mysmoothie.png)](https://mysmoothie.streamlit.app/)
 
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mysmoothie.streamlit.app/)
+Build your own smoothie and place an order with real-time nutrition info! 🍓🍌🥭
 
 
 ---
