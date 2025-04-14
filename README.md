@@ -11,9 +11,13 @@ I specialise in data analytics, business intelligence, and process optimisation,
 
 ### 🥤 Try My Smoothie Web App
 
-[![Smoothie App](https://raw.githubusercontent.com/tonyvicta/Snowflake-Streamlit-Smoothie-App/main/screenshots/mysmoothie.png)](https://mysmoothie.streamlit.app/)
+<a href="https://mysmoothie.streamlit.app/">
+  <img src="https://raw.githubusercontent.com/tonyvicta/Snowflake-Streamlit-Smoothie-App/main/screenshots/mysmoothie.png" width="600"/>
+</a>
+
 
 Build your own smoothie and place an order with real-time nutrition info! 🍓🍌🥭
+
 
 
 ---
