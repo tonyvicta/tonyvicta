@@ -9,6 +9,11 @@ I specialise in data analytics, business intelligence, and process optimisation,
 # ⭐ Data Visualisation projects 
 
 
+[![Smoothie App](mysmoothie.png)](https://mysmoothie.streamlit.app/)
+
+
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mysmoothie.streamlit.app/)
 
 
 ---
