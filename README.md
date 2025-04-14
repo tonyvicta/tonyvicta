@@ -9,7 +9,7 @@ I specialise in data analytics, business intelligence, and process optimisation,
 # ⭐ Data Visualisation projects 
 
 
-[![Smoothie App](mysmoothie.png)](https://mysmoothie.streamlit.app/)
+[![Smoothie App](https://raw.githubusercontent.com/tonyvicta/Snowflake-Streamlit-Smoothie-App/main/mysmoothie.png)](https://mysmoothie.streamlit.app/)
 
 
 
