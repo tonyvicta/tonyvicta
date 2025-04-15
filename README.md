@@ -7,19 +7,17 @@ I specialise in data analytics, business intelligence, and process optimisation,
 ---
 
 
-# ⭐ Tableau Viz Projects 
+# ⭐ Data Viz Projects 
 
 
 
-<a href="https://public.tableau.com/views/1_1_Loading_workbooks_17447029762560/Gamerevenue">
-  <img src="https://github.com/user-attachments/assets/8a44dbdb-a3e6-4d37-be5c-69a633df5f69" width="400" alt="Game Revenue Dashboard"/>
-</a> 
+<img src="https://github.com/user-attachments/assets/77ecaa0f-8a48-401c-8e5e-4e8c9bd11b20" width="400" alt="Klimatop Dashboard"/>
 
 
 ---
 
 
-# ⭐ Streamlit API Web Apps  
+# ⭐ Snowflake Native Streamlit Apps
 
 
 <a href="https://mysmoothie.streamlit.app/">
