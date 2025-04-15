@@ -7,13 +7,19 @@ I specialise in data analytics, business intelligence, and process optimisation,
 ---
 
 
-# ⭐ Tableau Viz projects 
+# ⭐ Tableau Viz Projects 
 
 This interactive Tableau dashboard visualizes game revenue insights, highlighting revenue trends, top-performing titles, and regional performance. It was built to practice data storytelling and dashboard design using Tableau Public.
 
 
 [![Game Revenue Dashboard](https://github.com/user-attachments/assets/8a44dbdb-a3e6-4d37-be5c-69a633df5f69)
-)](https://public.tableau.com/views/1_1_Loading_workbooks_17447029762560/Gamerevenue)
+](https://public.tableau.com/views/1_1_Loading_workbooks_17447029762560/Gamerevenue)
+
+
+
+<a href="https://public.tableau.com/views/1_1_Loading_workbooks_17447029762560/Gamerevenue">
+  <img src="https://github.com/user-attachments/assets/8a44dbdb-a3e6-4d37-be5c-69a633df5f69" width="400" alt="Game Revenue Dashboard"/>
+</a>
 
 
 ---
@@ -24,15 +30,9 @@ This interactive Tableau dashboard visualizes game revenue insights, highlightin
 # ⭐ Streamlit API Web Apps  
 
 
-### 🥤 Try My Smoothie Web App
-
 <a href="https://mysmoothie.streamlit.app/">
-  <img src="https://raw.githubusercontent.com/tonyvicta/Snowflake-Streamlit-Smoothie-App/main/screenshots/mysmoothie.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/tonyvicta/Snowflake-Streamlit-Smoothie-App/main/screenshots/mysmoothie.png" width="400"/>
 </a>
-
-
-Build your own smoothie and place an order with real-time nutrition info! 🍓🍌🥭
-
 
 
 ---
