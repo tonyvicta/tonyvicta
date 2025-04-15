@@ -13,37 +13,15 @@ I specialise in data analytics, business intelligence, and process optimisation,
 
 <a href="https://public.tableau.com/views/1_1_Loading_workbooks_17447029762560/Gamerevenue">
   <img src="https://github.com/user-attachments/assets/8a44dbdb-a3e6-4d37-be5c-69a633df5f69" width="400" alt="Game Revenue Dashboard"/>
-</a>
+</a> 
 
-<a href="https://public.tableau.com/views/1_1_Loading_workbooks_17447029762560/Gamerevenue">
-  <img src="https://github.com/user-attachments/assets/8a44dbdb-a3e6-4d37-be5c-69a633df5f69" width="400" alt="Game Revenue Dashboard"/>
-</a>
-
-<a href="https://public.tableau.com/views/1_1_Loading_workbooks_17447029762560/Gamerevenue">
-  <img src="https://github.com/user-attachments/assets/8a44dbdb-a3e6-4d37-be5c-69a633df5f69" width="400" alt="Game Revenue Dashboard"/>
-</a>
-
-<a href="https://public.tableau.com/views/1_1_Loading_workbooks_17447029762560/Gamerevenue">
-  <img src="https://github.com/user-attachments/assets/8a44dbdb-a3e6-4d37-be5c-69a633df5f69" width="400" alt="Game Revenue Dashboard"/>
-</a>
 
 ---
-
-
 
 
 # ⭐ Streamlit API Web Apps  
 
 
-<a href="https://mysmoothie.streamlit.app/">
-  <img src="https://raw.githubusercontent.com/tonyvicta/Snowflake-Streamlit-Smoothie-App/main/screenshots/mysmoothie.png" width="400"/>
-</a>
-<a href="https://mysmoothie.streamlit.app/">
-  <img src="https://raw.githubusercontent.com/tonyvicta/Snowflake-Streamlit-Smoothie-App/main/screenshots/mysmoothie.png" width="400"/>
-</a>
-<a href="https://mysmoothie.streamlit.app/">
-  <img src="https://raw.githubusercontent.com/tonyvicta/Snowflake-Streamlit-Smoothie-App/main/screenshots/mysmoothie.png" width="400"/>
-</a>
 <a href="https://mysmoothie.streamlit.app/">
   <img src="https://raw.githubusercontent.com/tonyvicta/Snowflake-Streamlit-Smoothie-App/main/screenshots/mysmoothie.png" width="400"/>
 </a>
