@@ -20,6 +20,32 @@ Build your own smoothie and place an order with real-time nutrition info! 🍓�
 
 
 
+
+
+
+# 🎮 Game Revenue Dashboard - Tableau Public
+
+This interactive Tableau dashboard visualizes game revenue insights, highlighting revenue trends, top-performing titles, and regional performance. It was built to practice data storytelling and dashboard design using Tableau Public.
+
+---
+
+## 🔗 View the Live Dashboard
+
+👉 [Click here to view the interactive dashboard on Tableau Public](https://public.tableau.com/views/1_1_Loading_workbooks_17447029762560/Gamerevenue?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
+
+## 🖼️ Dashboard Preview
+
+![Game Revenue Dashboard](screenshots/game-revenue-dashboard.png)
+
+
+
+
+
+
+
+
 ---
 
 # ⭐ ETL (Extract Transform Load) Projects
