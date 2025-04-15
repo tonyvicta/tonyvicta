@@ -6,7 +6,22 @@ I specialise in data analytics, business intelligence, and process optimisation,
 
 ---
 
-# ⭐ Data Visualisation projects 
+
+# ⭐ Tableau Viz projects 
+
+This interactive Tableau dashboard visualizes game revenue insights, highlighting revenue trends, top-performing titles, and regional performance. It was built to practice data storytelling and dashboard design using Tableau Public.
+
+
+[![Game Revenue Dashboard](https://github.com/user-attachments/assets/8a44dbdb-a3e6-4d37-be5c-69a633df5f69)
+)](https://public.tableau.com/views/1_1_Loading_workbooks_17447029762560/Gamerevenue)
+
+
+---
+
+
+
+
+# ⭐ Streamlit API Web Apps  
 
 
 ### 🥤 Try My Smoothie Web App
@@ -18,18 +33,6 @@ I specialise in data analytics, business intelligence, and process optimisation,
 
 Build your own smoothie and place an order with real-time nutrition info! 🍓🍌🥭
 
-
-
-
-
-
-# 🎮 Game Revenue Dashboard - Tableau Public
-
-This interactive Tableau dashboard visualizes game revenue insights, highlighting revenue trends, top-performing titles, and regional performance. It was built to practice data storytelling and dashboard design using Tableau Public.
-
-
-[![Game Revenue Dashboard](https://github.com/user-attachments/assets/8a44dbdb-a3e6-4d37-be5c-69a633df5f69)
-)](https://public.tableau.com/views/1_1_Loading_workbooks_17447029762560/Gamerevenue)
 
 
 ---
