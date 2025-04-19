@@ -18,21 +18,11 @@ I specialise in data analytics, business intelligence, and process optimisation,
 </a>
 
 <a href="https://mysmoothie.streamlit.app/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/9fad158a-94d4-4250-85a1-d030d16cbb6e" alt="smoothie_app" width="400"/>
-</a>
-
-
----
-
-
-# ⭐ Snowflake Native Streamlit Apps
-
-
-<a href="https://mysmoothie.streamlit.app/">
-  <img src="https://raw.githubusercontent.com/tonyvicta/Snowflake-Streamlit-Smoothie-App/main/screenshots/mysmoothie.png" width="400"/>
+  <img src="https://github.com/user-attachments/assets/9fad158a-94d4-4250-85a1-d030d16cbb6e" alt="Smoothie App Preview" width="400"/>
 </a>
 
 ---
+
 
 # ⭐ ETL (Extract Transform Load) Projects
 
