@@ -10,9 +10,6 @@ I specialise in data analytics, business intelligence, and process optimisation,
 # ⭐ Data Viz Projects 
 
 
-
-<img src="https://github.com/user-attachments/assets/77ecaa0f-8a48-401c-8e5e-4e8c9bd11b20" width="400" alt="Klimatop Dashboard"/>
-
 <a href="https://finance-economics-dashboard-hxgtyx5cck9rvxqwf2xjtt.streamlit.app/" target="_blank">
   <img src="https://github.com/user-attachments/assets/3db7231e-edf8-464c-884b-23f0b502ce92" alt="sis_preview" width="400"/>
 </a>
@@ -21,12 +18,13 @@ I specialise in data analytics, business intelligence, and process optimisation,
   <img src="https://github.com/user-attachments/assets/9fad158a-94d4-4250-85a1-d030d16cbb6e" alt="Smoothie App Preview" width="400"/>
 </a>
 
+<img src="https://github.com/user-attachments/assets/77ecaa0f-8a48-401c-8e5e-4e8c9bd11b20" width="400" alt="Klimatop Dashboard"/> 
 ---
 
 
 # ⭐ ETL (Extract Transform Load) Projects
 
-- [Python, SQL, Snowflake & Streamlit: Snowflake Streamlit Smoothie App](https://github.com/tonyvicta/Financial-Economic-Essentials)
+- [Python, SQL, Snowflake & Streamlit: Financial & Economic Essentials](https://github.com/tonyvicta/Financial-Economic-Essentials)
 - [Python, SQL, Snowflake & Streemlit, : Snowflake Streamlit Smoothie App](https://github.com/tonyvicta/Snowflake-Streamlit-Smoothie-App)
 - [SQL & Power BI: Sales Customer insights Dashboard](https://github.com/tonyvicta/Sales-Customer-Insights-Dashboard)
 - [SQL & Power BI: AML Transaction Analysis](https://github.com/tonyvicta/AML-Transaction-Analysis-Post-Russian-Invasion)
