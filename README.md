@@ -17,6 +17,11 @@ I specialise in data analytics, business intelligence, and process optimisation,
   <img src="https://github.com/user-attachments/assets/3db7231e-edf8-464c-884b-23f0b502ce92" alt="sis_preview" width="400"/>
 </a>
 
+<a href="https://mysmoothie.streamlit.app/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/9fad158a-94d4-4250-85a1-d030d16cbb6e" alt="smoothie_app" width="400"/>
+</a>
+
+
 ---
 
 
