@@ -13,6 +13,9 @@ I specialise in data analytics, business intelligence, and process optimisation,
 
 <img src="https://github.com/user-attachments/assets/77ecaa0f-8a48-401c-8e5e-4e8c9bd11b20" width="400" alt="Klimatop Dashboard"/>
 
+<a href="https://finance-economics-dashboard-hxgtyx5cck9rvxqwf2xjtt.streamlit.app/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/3db7231e-edf8-464c-884b-23f0b502ce92" alt="sis_preview" width="400"/>
+</a>
 
 ---
 
@@ -33,6 +36,7 @@ I specialise in data analytics, business intelligence, and process optimisation,
 - [SQL & Power BI: AML Transaction Analysis](https://github.com/tonyvicta/AML-Transaction-Analysis-Post-Russian-Invasion)
 
 ---
+
 
 
 
