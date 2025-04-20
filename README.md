@@ -10,7 +10,7 @@ I specialise in data analytics, business intelligence, and process optimisation,
 # ⭐ Data Viz Projects 
 
 
-<a href="https://finance-economics-dashboard-hxgtyx5cck9rvxqwf2xjtt.streamlit.app/" target="_blank">
+<a href="https://finance-economics-dashboard.streamlit.app/" target="_blank">
   <img src="https://github.com/user-attachments/assets/3db7231e-edf8-464c-884b-23f0b502ce92" alt="sis_preview" width="400"/>
 </a>
 
