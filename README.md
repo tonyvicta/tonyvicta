@@ -28,11 +28,9 @@ I specialise in data analytics, business intelligence, and process optimisation,
 - [Python, SQL, Snowflake & Streemlit, : Snowflake Streamlit Smoothie App](https://github.com/tonyvicta/Snowflake-Streamlit-Smoothie-App)
 - [SQL & Power BI: Sales Customer insights Dashboard](https://github.com/tonyvicta/Sales-Customer-Insights-Dashboard)
 - [SQL & Power BI: AML Transaction Analysis](https://github.com/tonyvicta/AML-Transaction-Analysis-Post-Russian-Invasion)
-
-
+- [SQL: International-Debt-Analysis-Project](https://github.com/tonyvicta/International-Debt-Analysis-Project/blob/main/README.md)
 
 ---
-
 
 
 
