@@ -19,6 +19,9 @@ I specialise in data analytics, business intelligence, and process optimisation,
 </a>
 
 <img src="https://github.com/user-attachments/assets/77ecaa0f-8a48-401c-8e5e-4e8c9bd11b20" width="400" alt="Klimatop Dashboard"/> 
+
+<img src="https://github.com/user-attachments/assets/bc1fba8d-edfa-454a-ba23-a37e4f5067f2" width="400" />
+
 ---
 
 
