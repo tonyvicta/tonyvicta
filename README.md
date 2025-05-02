@@ -9,18 +9,18 @@ I specialise in data analytics, business intelligence, and process optimisation,
 
 # ⭐ Data Viz Projects 
 
+<img src="https://github.com/user-attachments/assets/77ecaa0f-8a48-401c-8e5e-4e8c9bd11b20" width="400" alt="Klimatop Dashboard"/> 
+
 
 <a href="https://finance-economics-dashboard.streamlit.app/" target="_blank">
   <img src="https://github.com/user-attachments/assets/3db7231e-edf8-464c-884b-23f0b502ce92" alt="sis_preview" width="400"/>
 </a>
 
+<img src="https://github.com/user-attachments/assets/bc1fba8d-edfa-454a-ba23-a37e4f5067f2" width="400" />
+
 <a href="https://mysmoothie.streamlit.app/" target="_blank">
   <img src="https://github.com/user-attachments/assets/9fad158a-94d4-4250-85a1-d030d16cbb6e" alt="Smoothie App Preview" width="400"/>
 </a>
-
-<img src="https://github.com/user-attachments/assets/77ecaa0f-8a48-401c-8e5e-4e8c9bd11b20" width="400" alt="Klimatop Dashboard"/> 
-
-<img src="https://github.com/user-attachments/assets/bc1fba8d-edfa-454a-ba23-a37e4f5067f2" width="400" />
 
 ---
 
