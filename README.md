@@ -26,8 +26,10 @@ I specialise in data analytics, business intelligence, and process optimisation,
 ---
 
 
-# ⭐ ETL (Extract Transform Load) Projects
+# ⭐ ELT (Extract Load Transform) & Engineering Projects
 
+
+- [Snowflake, DBT, Python, Git & GitHub: Snowflake Dbt Data Engineering Pipeline](https://github.com/tonyvicta/snowflake-dbt-data-engineering-pipeline)
 - [Python, SQL, Snowflake, AWS S3 & Streamlit: Weather Data Pipeline for Hamburg Sales Insights](https://github.com/tonyvicta/Weather-Data-Pipeline-for-Hamburg-Sales-Insights)
 - [Python, SQL, Snowflake & Streamlit: Credit Card Fraud Detection Using Snowflake ML](https://github.com/tonyvicta/Credit-Card-Fraud-Detection-Using-SnowflakeML)
 - [Python, SQL, Snowflake & Streamlit: Financial & Economic Essentials](https://github.com/tonyvicta/Financial-Economic-Essentials)
