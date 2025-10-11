@@ -23,6 +23,7 @@ I specialise in Snowflake data engineering and Power BI. I design and migrate mo
 - [SQL & Power BI: AML Transaction Analysis](https://github.com/tonyvicta/AML-Transaction-Analysis-Post-Russian-Invasion)
 - [SQL: International-Debt-Analysis-Project](https://github.com/tonyvicta/International-Debt-Analysis-Project/blob/main/README.md)
 
+---
 
 # ⭐ Data Viz Projects 
 
@@ -42,7 +43,13 @@ I specialise in Snowflake data engineering and Power BI. I design and migrate mo
 
 ---
 
-🌱 Building Expertise:<br>📌 Snowflake platform design for scalable analytics<br>📌 SQL performance optimisation at scale<br>📌 Python workflows for data pipelines and automation scale<br>📌 Power BI modelling DAX and interactive reporting
+### Core strengths
+✅ Snowflake platform design for scalable analytics  
+✅ SQL performance optimisation at scale  
+✅ Python workflows for data pipelines and automation  
+✅ Power BI modelling DAX and interactive reporting
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tonytawakali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tony@datasphered.com) 
