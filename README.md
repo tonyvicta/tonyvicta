@@ -42,8 +42,7 @@ I specialise in data analytics, business intelligence, and process optimisation,
 
 
 
-🌱 Currently Learning:<br>📌 Snowflake for Data Warehousing<br>📌 Advanced SQL Query Optimisation<br>📌 Python for Data Engineering
-
+🌱 Building Expertise:<br>📌 Snowflake platform design for scalable analytics<br>📌 SQL performance optimisation at scale<br>📌 Python workflows for data pipelines and automation scale<br>📌 Power BI modelling DAX and interactive reporting
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tonytawakali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tony@datasphered.com) 
