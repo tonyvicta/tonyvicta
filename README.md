@@ -1,10 +1,27 @@
-
-
 # Hi, I'm Tony 👋
 
-I specialise in data analytics, business intelligence, and process optimisation, transforming raw data into actionable insights that drive business decisions. With experience in data visualization, reporting, and automation, I thrive on solving complex problems and uncovering meaningful patterns in data.<br><br>💡 What I Do:<br>🧑‍💻Data Analysis & Business Intelligence – Extracting insights using SQL, Power BI, and Python.<br>📊Data Visualisation – Building interactive dashboards to communicate trends and KPIs.<br>🗄️Database Management & Optimisation – Designing efficient data models and workflows.<br>🔄Process Automation – Enhancing efficiency through data-driven automation and reporting.<br><br><br>
+I specialise in Snowflake data engineering and Power BI. I design and migrate modern cloud data platforms on Snowflake, build reliable ELT pipelines with SQL Python and dbt, model data for analytics, and deliver clear decision ready reporting in Power BI. I focus on performance governance and cost efficiency.
+
+💡 What I Do  
+🧊 Snowflake data engineering: ELT pipelines streams tasks Snowpipe dbt and secure access control  
+📈 Power BI development: semantic models DAX row level security and interactive reporting  
+🧭 Data modelling and optimisation: dimensional models performance tuning clustering and cost control  
+🚚 Legacy to Snowflake migration: source to target mapping validation and phased cutover  
+🔄 Automation and orchestration: scheduled pipelines data quality checks CI CD and documentation
 
 ---
+
+# ⭐ ELT (Extract Load Transform) & Engineering Projects
+
+
+- [Snowflake, DBT, Python, Git & GitHub: Snowflake Dbt Data Engineering Pipeline](https://github.com/tonyvicta/snowflake-dbt-data-engineering-pipeline)
+- [Python, SQL, Snowflake, AWS S3 & Streamlit: Weather Data Pipeline for Hamburg Sales Insights](https://github.com/tonyvicta/Weather-Data-Pipeline-for-Hamburg-Sales-Insights)
+- [Python, SQL, Snowflake & Streamlit: Credit Card Fraud Detection Using Snowflake ML](https://github.com/tonyvicta/Credit-Card-Fraud-Detection-Using-SnowflakeML)
+- [Python, SQL, Snowflake & Streamlit: Financial & Economic Essentials](https://github.com/tonyvicta/Financial-Economic-Essentials)
+- [Python, SQL, Snowflake & Streemlit: Snowflake Streamlit Smoothie App](https://github.com/tonyvicta/Snowflake-Streamlit-Smoothie-App)
+- [SQL & Power BI: Sales Customer insights Dashboard](https://github.com/tonyvicta/Sales-Customer-Insights-Dashboard)
+- [SQL & Power BI: AML Transaction Analysis](https://github.com/tonyvicta/AML-Transaction-Analysis-Post-Russian-Invasion)
+- [SQL: International-Debt-Analysis-Project](https://github.com/tonyvicta/International-Debt-Analysis-Project/blob/main/README.md)
 
 
 # ⭐ Data Viz Projects 
@@ -24,23 +41,6 @@ I specialise in data analytics, business intelligence, and process optimisation,
 </a>
 
 ---
-
-
-# ⭐ ELT (Extract Load Transform) & Engineering Projects
-
-
-- [Snowflake, DBT, Python, Git & GitHub: Snowflake Dbt Data Engineering Pipeline](https://github.com/tonyvicta/snowflake-dbt-data-engineering-pipeline)
-- [Python, SQL, Snowflake, AWS S3 & Streamlit: Weather Data Pipeline for Hamburg Sales Insights](https://github.com/tonyvicta/Weather-Data-Pipeline-for-Hamburg-Sales-Insights)
-- [Python, SQL, Snowflake & Streamlit: Credit Card Fraud Detection Using Snowflake ML](https://github.com/tonyvicta/Credit-Card-Fraud-Detection-Using-SnowflakeML)
-- [Python, SQL, Snowflake & Streamlit: Financial & Economic Essentials](https://github.com/tonyvicta/Financial-Economic-Essentials)
-- [Python, SQL, Snowflake & Streemlit: Snowflake Streamlit Smoothie App](https://github.com/tonyvicta/Snowflake-Streamlit-Smoothie-App)
-- [SQL & Power BI: Sales Customer insights Dashboard](https://github.com/tonyvicta/Sales-Customer-Insights-Dashboard)
-- [SQL & Power BI: AML Transaction Analysis](https://github.com/tonyvicta/AML-Transaction-Analysis-Post-Russian-Invasion)
-- [SQL: International-Debt-Analysis-Project](https://github.com/tonyvicta/International-Debt-Analysis-Project/blob/main/README.md)
-
----
-
-
 
 🌱 Building Expertise:<br>📌 Snowflake platform design for scalable analytics<br>📌 SQL performance optimisation at scale<br>📌 Python workflows for data pipelines and automation scale<br>📌 Power BI modelling DAX and interactive reporting
 
