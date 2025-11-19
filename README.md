@@ -54,7 +54,13 @@ I specialise in Snowflake data engineering and Power BI. I design and migrate mo
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tonytawakali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tony@datasphered.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tonytawakali)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tony@datasphered.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/datasphere_dynamics/)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/datasphered?s=21)
+
+
+
 
 # 💻 Tech Stack:
 ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) 
