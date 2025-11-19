@@ -83,3 +83,55 @@ I specialise in Snowflake data engineering and Power BI. I design and migrate mo
 tonyvicta/tonyvicta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+<h2>🎓 Certifications</h2>
+
+<p align="left">
+  <!-- Snowflake SnowPro Associate – Platform -->
+  <a href="https://achieve.snowflake.com/81c1ed57-b569-4483-a823-70c831a7a3c8#acc.xvHahKCt" target="_blank">
+    <img
+      src="https://github.com/user-attachments/assets/9da91118-cbe4-4ec9-a5d7-1400aac307c4"
+      alt="Snowflake SnowPro Associate Platform"
+      width="160"
+    />
+  </a>
+
+  <!-- dbt Learn Fundamentals -->
+  <a href="https://credentials.getdbt.com/8390cdda-2421-4127-ba82-4c24c25f2ecd#acc.3Bg7izmD" target="_blank">
+    <img
+      src="https://github.com/user-attachments/assets/dbd110d7-8f8c-4e71-b3f3-f745c708cf8e"
+      alt="dbt Learn Fundamentals"
+      width="160"
+    />
+  </a>
+
+  <!-- DataCamp Data Engineer Associate -->
+  <a href="https://www.datacamp.com/certificate/DEA0018292799466" target="_blank">
+    <img
+      src="https://github.com/user-attachments/assets/140f6cc4-1845-4dce-a794-77782ff3c532"
+      alt="DataCamp Certified Data Engineer Associate"
+      width="160"
+    />
+  </a>
+
+  <!-- DataCamp Data Analyst Associate -->
+  <a href="https://www.datacamp.com/certificate/DAA0019677178470" target="_blank">
+    <img
+      src="https://github.com/user-attachments/assets/596e1fc7-deb4-488c-8849-441a5244fd9a"
+      alt="DataCamp Certified Data Analyst Associate"
+      width="160"
+    />
+  </a>
+
+  <!-- DataCamp SQL Associate -->
+  <a href="https://www.datacamp.com/certificate/SQA0012254542214" target="_blank">
+    <img
+      src="https://github.com/user-attachments/assets/52478796-1cf6-4469-b267-be3876978813"
+      alt="DataCamp Certified SQL Associate"
+      width="160"
+    />
+  </a>
+</p>
+
