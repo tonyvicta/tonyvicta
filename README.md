@@ -13,7 +13,7 @@ I specialise in Snowflake data engineering and Power BI. I design and migrate mo
 
 # ⭐ ELT (Extract Load Transform) & Engineering Projects
 
-
+- [Snowflake, DBT, AWS S3, Python, Git & GitHub: Delivering a Data Model for Churn Analysis](https://github.com/tonyvicta/data_model_for_churn_analysis)
 - [Snowflake, DBT, Python, Git & GitHub: Snowflake Dbt Data Engineering Pipeline](https://github.com/tonyvicta/snowflake-dbt-data-engineering-pipeline)
 - [Python, SQL, Snowflake, AWS S3 & Streamlit: Weather Data Pipeline for Hamburg Sales Insights](https://github.com/tonyvicta/Weather-Data-Pipeline-for-Hamburg-Sales-Insights)
 - [Python, SQL, Snowflake & Streamlit: Credit Card Fraud Detection Using Snowflake ML](https://github.com/tonyvicta/Credit-Card-Fraud-Detection-Using-SnowflakeML)
