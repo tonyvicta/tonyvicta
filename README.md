@@ -1,6 +1,6 @@
 # Hi, I'm Tony 👋
 
-I specialise in Snowflake data engineering and Power BI. I design and migrate modern cloud data platforms on Snowflake, build reliable ELT pipelines with SQL Python and dbt, model data for analytics, and deliver clear decision ready reporting in Power BI. I focus on performance governance and cost efficiency.
+I specialise in Snowflake data engineering and Power BI. I design and migrate from legacy to modern cloud data platforms on Snowflake, build reliable ELT pipelines with SQL Python and dbt, model data for analytics, and deliver clear decision ready reporting in Power BI. I focus on performance governance and cost efficiency.
 
 💡 What I Do  
 🧊 Snowflake data engineering: ELT pipelines streams tasks Snowpipe dbt and secure access control  
