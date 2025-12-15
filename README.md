@@ -1,6 +1,6 @@
-# ❄️📊 Tony Tawakali 
+# Tony 
 
-`Data Engineer and Analytics Consultant (Snowflake | SQL and dbt | Orchestration | Power BI)`  
+`Data Engineer and Analytics Consultant (Snowflake ❄️ | Power BI 📊)` 
 
 I am a data engineer and analytics consultant focused on building clear, reliable, cloud native data platforms on Snowflake. My work centres on ELT pipelines with SQL Python and dbt, secure data access and simple patterns that teams can understand and own.
 
