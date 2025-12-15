@@ -51,8 +51,6 @@ Each solution is designed to be maintainable, scalable and cost efficient.
 ---
 
 
-
-
 # ⭐ ELT (Extract Load Transform) & Engineering Projects
 
 - [Snowflake, DBT, AWS S3, Python, Git & GitHub: Delivering a Data Model for Churn Analysis](https://github.com/tonyvicta/data_model_for_churn_analysis)
@@ -85,8 +83,17 @@ Each solution is designed to be maintainable, scalable and cost efficient.
   <img src="https://github.com/user-attachments/assets/9fad158a-94d4-4250-85a1-d030d16cbb6e" alt="Smoothie App Preview" width="400"/>
 </a>
 
-
 ---
+
+## ✏️ Latest Medium Posts
+
+<a target="_blank" href="https://medium.com/@datasphered">
+  <img
+    src="https://github-readme-medium-recent-article.vercel.app/medium/@datasphered/0"
+    alt="Latest Medium article"
+  />
+</a>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
