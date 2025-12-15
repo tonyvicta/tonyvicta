@@ -1,4 +1,4 @@
-# ❄️ Tony Tawakali  
+# ❄️📊 Tony Tawakali 
 
 `Data Engineer and Analytics Consultant (Snowflake | SQL and dbt | Orchestration | Power BI)`  
 
