@@ -1,15 +1,57 @@
-# Hi, I'm Tony 👋
+# ❄️ Tony Tawakali  
 
-I specialise in Snowflake data engineering and Power BI. I design and migrate from legacy to modern cloud data platforms on Snowflake, build reliable ELT pipelines with SQL Python and dbt, model data for analytics, and deliver clear decision ready reporting in Power BI. I focus on performance governance and cost efficiency.
+`Data Engineer and Analytics Consultant (Snowflake | SQL and dbt | Orchestration | Power BI)`  
 
-💡 What I Do  
-🧊 Snowflake data engineering: ELT pipelines streams tasks Snowpipe dbt and secure access control  
-📈 Power BI development: semantic models DAX row level security and interactive reporting  
-🧭 Data modelling and optimisation: dimensional models performance tuning clustering and cost control  
-🚚 Legacy to Snowflake migration: source to target mapping validation and phased cutover  
-🔄 Automation and orchestration: scheduled pipelines data quality checks CI CD and documentation
+I am a data engineer and analytics consultant focused on building clear, reliable, cloud native data platforms on Snowflake. My work centres on ELT pipelines with SQL Python and dbt, secure data access and simple patterns that teams can understand and own.
+
+I help organisations move from spreadsheets and legacy warehouses into Snowflake, using staged migrations that include source to target mapping, validation and side by side runs. The goal is always the same, trusted data that is ready for analysis without surprises.
+
+I also design modern data models using dimensional and data vault approaches so that datasets are scalable, auditable and aligned with how the business actually works. On top of this I build Power BI and Streamlit solutions that turn those models into self service dashboards and lightweight apps for day to day decision making.
+
+Everything I build is production focused with performance, governance and cost control in mind.
+
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tonytawakali)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tony@datasphered.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/datasphere_dynamics/)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/datasphered?s=21)
 
 ---
+
+# 💻 Tech Stack:
+![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Fivetran](https://img.shields.io/badge/Fivetran-306BEA?style=for-the-badge&logo=fivetran&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+
+---
+
+## 🛠️ My Core Engineering Strengths
+
+* ❄️ **Snowflake**: Warehouse design, data models, performance tuning, Time Travel and secure data sharing  
+* 🐘 **Postgres**: Reliable OLTP and analytics data stores with indexing and query tuning  
+* 🧠 **SQL and dbt**: Reusable models, testing, documentation and a governed semantic layer  
+* 🐍 **Python**: Data pipeline automation, API integration and data quality checks  
+* ☁️ **AWS**: Core services for data platforms including S3, IAM and networking foundations  
+* 🔄 **Ingestion with Fivetran and SFTP**: Connectors and file based feeds into Snowflake  
+* 📅 **Orchestration with Airflow**: Scheduled pipelines, alerting and dependency management  
+* 📊 **Analytics with Power BI and Streamlit**: Interactive dashboards and self service analytics for business teams  
+* 🧪 **GitHub**: Version control, pull requests, code review and simple CI for data projects  
+
+Each solution is designed to be maintainable, scalable and cost efficient.
+
+---
+
+
+
 
 # ⭐ ELT (Extract Load Transform) & Engineering Projects
 
@@ -43,36 +85,9 @@ I specialise in Snowflake data engineering and Power BI. I design and migrate fr
   <img src="https://github.com/user-attachments/assets/9fad158a-94d4-4250-85a1-d030d16cbb6e" alt="Smoothie App Preview" width="400"/>
 </a>
 
----
-
-### Core strengths
-✅ Snowflake platform design for scalable analytics  
-✅ SQL performance optimisation at scale  
-✅ Python workflows for data pipelines and automation  
-✅ Power BI modelling DAX and interactive reporting
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tonytawakali)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tony@datasphered.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/datasphere_dynamics/)
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/datasphered?s=21)
-
-
-
-
-# 💻 Tech Stack:
-![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Fivetran](https://img.shields.io/badge/Fivetran-306BEA?style=for-the-badge&logo=fivetran&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) 
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
