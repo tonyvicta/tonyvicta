@@ -1,4 +1,21 @@
-# Tony 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tonyvicta&style=flat-square" />
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=40&pause=1000&center=true&vCenter=true&width=700&color=000000&lines=Hello;Bonjour;Hola;Guten+Tag;Hej;Hallo" />
+</p>
+
+
+
+<h1 align="center">
+  I'm <a href="https://github.com/YOUR_USERNAME">Tony Tawakali</a> 👋
+</h1>
+
+
+
+
 
 `Data Engineer and Analytics Consultant (Snowflake ❄️ | Power BI 📊)` 
 
