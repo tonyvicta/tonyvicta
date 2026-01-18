@@ -49,7 +49,7 @@ Everything I build is production focused with performance, governance and cost c
   </a>
 </p>
 
-
+* 💬 If you have any project collaboration request, please do not hesitate to reach out to me!
 ---
 
 # 💻 Tech Stack:
