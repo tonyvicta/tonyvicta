@@ -86,7 +86,12 @@ Each solution is designed to be maintainable, scalable and cost efficient.
 
 # ⭐ Data Viz Projects 
 
-<img src="https://github.com/user-attachments/assets/77ecaa0f-8a48-401c-8e5e-4e8c9bd11b20" width="400" alt="Klimatop Dashboard"/> 
+
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNTNhZWQ2ZDAtMWUzZi00MDU1LWJkM2MtZmM2ZGYyMDk4NTU2IiwidCI6IjU1M2JkNGM5LTA3YTgtNGQyMy04ZDEyLWFkNzFkZWU3NGM3ZCJ9" target="_blank">
+  <img src="https://raw.githubusercontent.com/tonyvicta/Global-Electronics-Retailer/main/screenshots/ge_preview.gif" alt="Global Electronics report preview" width="400"/>
+</a>
+
+
 
 
 <a href="https://finance-economics-dashboard.streamlit.app/" target="_blank">
