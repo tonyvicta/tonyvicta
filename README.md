@@ -99,7 +99,7 @@ Each solution is designed to be maintainable, scalable and cost efficient.
 
 ---
 
-# ⭐ Data Viz Projects 
+# ⭐ Data Viz Projects (Power BI & Streamlit)
 
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNTNhZWQ2ZDAtMWUzZi00MDU1LWJkM2MtZmM2ZGYyMDk4NTU2IiwidCI6IjU1M2JkNGM5LTA3YTgtNGQyMy04ZDEyLWFkNzFkZWU3NGM3ZCJ9" target="_blank">
