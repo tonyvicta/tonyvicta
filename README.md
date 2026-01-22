@@ -116,9 +116,11 @@ Each solution is designed to be maintainable, scalable and cost efficient.
 <img src="https://github.com/user-attachments/assets/6cb805bf-d728-497f-8510-51ce97102494" alt="Screenshot 2025-05-03 at 11:31:44" width="400"/>
 
 
-<a href="https://mysmoothie.streamlit.app/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/9fad158a-94d4-4250-85a1-d030d16cbb6e" alt="Smoothie App Preview" width="400"/>
+
+<a href="https://app.powerbi.com/view?r=eyJrIjoiODc3YTNlMjMtOWQzYS00NjA1LWIxOGYtZmRiM2U2YmRjYmFjIiwidCI6IjU1M2JkNGM5LTA3YTgtNGQyMy04ZDEyLWFkNzFkZWU3NGM3ZCJ9" target="_blank">
+  <img src="https://raw.githubusercontent.com/tonyvicta/Security-Reference-Data-Quality-and-SLA-Monitor/main/docs/Security_Ref_Data.gif" alt="Data Quality Overview report preview" width="400"/>
 </a>
+
 
 ---
 
